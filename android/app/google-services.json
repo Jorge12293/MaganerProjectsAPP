@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "546439151469",
+    "project_id": "proyecto-pruebas-b4c26",
+    "storage_bucket": "proyecto-pruebas-b4c26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546439151469:android:6ca37d1740ace0da18a464",
+        "android_client_info": {
+          "package_name": "com.example.manager_projects_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546439151469-g90vvjehn8qcgr6af820oo9ir2816ir0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATsqm_W-jWLGWM3m1XqFb0NGCR8gh_Nsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546439151469-g90vvjehn8qcgr6af820oo9ir2816ir0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "546439151469-sje0d9kmls96d0ibbc3vmm1airner33k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.managerProjectsApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
