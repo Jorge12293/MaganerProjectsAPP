@@ -6,5 +6,5 @@ class AppApis{
 
   // Local
   static String apiLocal = "${SettingApp.server}/api/v1";
-  static int timeoutHttp = 60;
+  static int timeoutHttp = 120;
 }

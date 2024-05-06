@@ -1,16 +1,23 @@
-# manager_projects_app
+# Manager Projects App
 
-A new Flutter project.
+Aplicación para la gestion de proyectos y tareas
+
+# Authenticación 
+La app usa authenticación con firebase
+
+# Configurar la conexión con la api
+lib/settings/setting_app.dart
+
 
 ## Getting Started
+Corre el comando para instalar las dependencias necesarias 
 
-This project is a starting point for a Flutter application.
+* flutter pub get 
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Requerimientos Previos
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Flutter 3.19.6 • channel stable • https://github.com/flutter/flutter.git
+Framework • revision 54e66469a9 (3 weeks ago) • 2024-04-17 13:08:03 -0700
+Engine • revision c4cd48e186
+Tools • Dart 3.3.4 • DevTools 2.31.1
